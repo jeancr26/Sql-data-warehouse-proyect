@@ -3,7 +3,7 @@
 Welcome to the **Data Warehouse ans Analytics Proyect** repository)
 This project demosttatrs a comprehensive data warehousesing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project hightlights industry best practices in data engineering and analytics.
 
-## Project Requirements
+## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -31,9 +31,9 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## License
+## 🛡️License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-##  About Me
-Hi there! I'm Jean Carlos Rodrigurz,  I’m an Data Analyst Student my purpose is to adquire signficant knowledge to be able to apply it on the Data Analytics fields!
+## 🌟 About Me
+Hi there! I'm Jean Carlos Rodriguez,  I’m an Data Analyst Student my purpose is to adquire signficant knowledge to be able to apply it on the Data Analytics fields!
